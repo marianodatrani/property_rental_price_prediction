@@ -8,7 +8,7 @@ Predict nightly rental prices within a 25 dollar margin of error to help propert
 
 ## Dataset
 
-8,111 rental property listings with the following features: location (latitude, longitude), property type, room type, number of bathrooms and bedrooms, and minimum nights required.
+8,111 rental property listings from San Francisco with the following features: location (latitude, longitude), property type, room type, number of bathrooms and bedrooms, and minimum nights required.
 
 ## Workflow
 
